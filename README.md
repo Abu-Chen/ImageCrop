@@ -1,0 +1,3 @@
+# ImageCrop
+This is an Android project base on MVVM architecture cross UI and database to implement image cropping, store and present.
+The technique composed of LiveData, Coroutine, Room, RxJava...
